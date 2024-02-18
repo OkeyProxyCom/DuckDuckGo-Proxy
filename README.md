@@ -21,8 +21,8 @@ Using a DuckDuckGo proxy allows users, especially SEO experts, to fully utilize 
 IP Anonymization: Your real IP address is replaced with the proxy server's IP address when you use a DuckDuckGo proxy, making it hard for websites to identify or track you.
 Geographical Spoofing: A DuckDuckGo proxy can make it seem as though you're browsing from a different location, allowing you to bypass geo-restrictions and access content that might be blocked in your actual location.
 Increased Privacy: By combining DuckDuckGo's privacy-focused search capabilities with a proxy's anonymizing features, you can browse the web with an extra layer of privacy.
-![Uploading image.png…]()
 
+![image](https://github.com/OkeyProxyCom/DuckDuckGo-Proxy/assets/150340973/7c3a5ab2-445f-49e9-9bf5-05cb5f41b02e)
 
 # DuckDuckGo and Proxies: A Powerful Combination
 Proxies act as intermediaries between your device and the internet. There are several types of proxies, each with its unique set of features and benefits. HTTP Proxies are used for web browsing, SOCKS Proxies can handle any type of internet traffic, and SSL/HTTPS Proxies can handle traffic from HTTPS websites, providing an extra layer of security.
@@ -31,6 +31,7 @@ Combining a proxy with DuckDuckGo can significantly enhance your online privacy.
 
 # Choosing the Right Proxy for DuckDuckGo
 The right proxy for DuckDuckGo is a residential proxy, which provides a high degree of anonymity, making it an ideal choice for web scraping from DuckDuckGo or any other website. OkeyProxy provides reliable rotating residential proxies to protect your bot and IP address from being detected or blocked. It also offers a 1GB free trial of residential proxy for users to test the product.
+
 https://www.okeyproxy.com/en/residential-proxies
 
 # How To Use DuckDuckGo Proxy?
