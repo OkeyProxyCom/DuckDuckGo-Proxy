@@ -39,11 +39,11 @@ Once you've chosen a proxy service, you can usually set it up by changing your b
 
 Open your browser's settings and find the network or proxy settings section. You will then have two options to choose from: automatic proxy settings or manual proxy settings. Select the first option if you want the device to automatically detect your proxy settings. If you want to use a specific IP address and port number, select the second option.
 
-Automatic Proxy Setup
+1. Automatic Proxy Setup
 
 ![image](https://github.com/OkeyProxyCom/DuckDuckGo-Proxy/assets/150340973/db232c3c-9701-4655-a1f2-56eb57047f5d)
 
-Manual Proxy Setup
+2. Manual Proxy Setup
 
 ![image](https://github.com/OkeyProxyCom/DuckDuckGo-Proxy/assets/150340973/96afc9b4-b95c-4f6d-a1f5-8d08da3a0ca9)
 
